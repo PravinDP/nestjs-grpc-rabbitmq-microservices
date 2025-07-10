@@ -1,2 +1,2 @@
 # nestjs-grpc-rabbitmq-microservices
-NestJS microservices boilerplate with gRPC, RabbitMQ, OpenTelemetry, Docker, and Helm.
+NestJS gRPC microservices with RabbitMQ, OTEL, Docker, CI/CD & Helm — production-ready starter.
